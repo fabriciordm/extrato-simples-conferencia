@@ -1,0 +1,33 @@
+﻿ @model LoginViewModel 
+
+<h2>Login</h2>
+
+ <form asp-action="Login" method="post">
+    <div class="form-group">
+        <label for="Banco">Banco</label>
+        <input type="text" class="form-control" id="Banco" name="Banco" asp-for="Banco" placeholder="Informe o banco" required />
+        <span asp-validation-for="Banco" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Agencia">Agência</label>
+        <input type="text" class="form-control" id="Agencia" name="Agencia" asp-for="Agencia" placeholder="Informe a agência" required />
+        <span asp-validation-for="Agencia" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="Senha">Senha</label>
+        <input type="password" class="form-control" id="Senha" name="Senha" asp-for="Senha" placeholder="Informe sua senha" required />
+        <span asp-validation-for="Senha" class="text-danger"></span>
+    </div>
+    </br>
+    <button type="submit" class="btn btn-primary">Entrar</button>
+</form> 
+
+  @section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+} 
+
+

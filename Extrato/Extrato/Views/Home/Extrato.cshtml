@@ -1,0 +1,180 @@
+﻿<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 20px;
+    }
+
+    h1 {
+        text-align: center;
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    form {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 20px;
+        padding: 15px;
+        background-color: #fff;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    label {
+        font-size: 16px;
+        margin-right: 10px;
+        color: #555;
+    }
+
+    select {
+        padding: 5px 10px;
+        font-size: 14px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        margin-right: 10px;
+    }
+
+    button {
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 5px;
+        font-size: 14px;
+        cursor: pointer;
+    }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+    table {
+        width: 100%;
+        margin-top: 20px;
+        border-collapse: collapse;
+        background-color: white;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    th, td {
+        padding: 10px;
+        text-align: left;
+        border: 1px solid #ddd;
+    }
+
+    th {
+        background-color: #f2f2f2;
+        color: #333;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f9f9f9;
+    }
+
+    tr:hover {
+        background-color: #f1f1f1;
+    }
+
+    /* Formulário PDF */
+    #generatepdf-form {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    #generatepdf-btn {
+        background-color: #007BFF;
+        color: white;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+        #generatepdf-btn:hover {
+            background-color: #0056b3;
+        }
+</style>
+
+
+ <form method="get" action="/Home/Extrato">
+    <label for="filtro">Filtrar por dias:</label>
+    <select name="filtroDias" id="filtro">
+        <option value="5">5 dias</option>
+        <option value="10">10 dias</option>
+        <option value="15">15 dias</option>
+        <option value="20">20 dias</option>
+    </select>
+    <button type="submit">Filtrar</button>
+</form> 
+
+<
+
+<table>
+    <thead>
+        <tr>
+            <th>Data</th>
+            <th>Tipo da Transação</th>
+            <th>Valor Monetário</th>
+          
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var extrato in Model)
+        {
+            <tr>
+                <td>@extrato.Data.ToString("dd/MM")</td>
+                <td>@extrato.TipoTransacao</td>
+                <td>@extrato.Valor.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@* <!-- Formulário para gerar PDF -->
+<form id="generatepdf-form" method="post" action="/Home/ExportarPDF">
+    <input type="hidden" name="filtroDias" id="filtroDiasHidden" value="@ViewData["filtroDias"]" />
+    <button type="button" id="generatepdf-btn">Exportar PDF</button>
+</form>
+
+<!-- Armazena o valor do ViewData no atributo data-filtrodias -->
+<div id="dataContainer" data-filtrodias="@ViewData["filtroDias"]"></div>
+
+<script>
+    document.getElementById('generatepdf-btn').addEventListener('click', function () {
+     
+        var filtroDias_ = document.getElementById('filtro').value;
+        document.getElementById('filtroDiasHidden').value = filtroDias;
+
+        var filtroDias = document.getElementById("dataContainer").getAttribute("data-filtrodias");
+        alert(filtroDias);
+
+        // Submete o formulário via POST
+        document.getElementById('generatepdf-form').submit();
+
+
+    });
+</script> *@
+
+<form id="generatepdf-form" method="post" action="/Home/ExportarPDF">
+    <input type="hidden" name="filtroDias" id="filtroDiasHidden" value="@ViewData["filtroDias"]" />
+    <button type="button" id="generatepdf-btn">Exportar PDF</button>
+</form>
+
+<div id="dataContainer" data-filtrodias="@ViewData["filtroDias"]"></div>
+
+<script>
+    document.getElementById('generatepdf-btn').addEventListener('click', function () {
+        // Obtém o valor do atributo data-filtrodias da div
+        var filtroDias = document.getElementById("dataContainer").getAttribute("data-filtrodias");
+
+        // Define o valor do campo oculto no formulário
+        document.getElementById('filtroDiasHidden').value = filtroDias;
+
+        // Submete o formulário via POST
+        document.getElementById('generatepdf-form').submit();
+    });
+</script>
+

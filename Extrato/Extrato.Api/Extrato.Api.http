@@ -1,0 +1,6 @@
+@Extrato.Api_HostAddress = http://localhost:5179
+
+GET {{Extrato.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

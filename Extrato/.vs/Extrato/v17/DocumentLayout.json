@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\extrato-simples-conferencia\\Extrato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1306A8DF-1838-4E34-BAE5-20A099A6897D}|Extrato.Api\\Extrato.Api.csproj|c:\\extrato-simples-conferencia\\extrato\\extrato.api\\controllers\\authcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306A8DF-1838-4E34-BAE5-20A099A6897D}|Extrato.Api\\Extrato.Api.csproj|solutionrelative:extrato.api\\controllers\\authcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DBFEF2-91B9-4C98-8D66-090EDAFE2646}|Extrato.Data\\Extrato.Data.csproj|c:\\extrato-simples-conferencia\\extrato\\extrato.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DBFEF2-91B9-4C98-8D66-090EDAFE2646}|Extrato.Data\\Extrato.Data.csproj|solutionrelative:extrato.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DBFEF2-91B9-4C98-8D66-090EDAFE2646}|Extrato.Data\\Extrato.Data.csproj|c:\\extrato-simples-conferencia\\extrato\\extrato.data\\context\\transacaocontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DBFEF2-91B9-4C98-8D66-090EDAFE2646}|Extrato.Data\\Extrato.Data.csproj|solutionrelative:extrato.data\\context\\transacaocontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11DBFEF2-91B9-4C98-8D66-090EDAFE2646}|Extrato.Data\\Extrato.Data.csproj|c:\\extrato-simples-conferencia\\extrato\\extrato.data\\context\\transacaocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11DBFEF2-91B9-4C98-8D66-090EDAFE2646}|Extrato.Data\\Extrato.Data.csproj|solutionrelative:extrato.data\\context\\transacaocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBCC745-1EDB-4478-A02A-4E3CE6CBDFBF}|Extrato.Domain\\Extrato.Domain.csproj|c:\\extrato-simples-conferencia\\extrato\\extrato.domain\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBCC745-1EDB-4478-A02A-4E3CE6CBDFBF}|Extrato.Domain\\Extrato.Domain.csproj|solutionrelative:extrato.domain\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBCC745-1EDB-4478-A02A-4E3CE6CBDFBF}|Extrato.Domain\\Extrato.Domain.csproj|c:\\extrato-simples-conferencia\\extrato\\extrato.domain\\interface\\repositories\\itransacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBCC745-1EDB-4478-A02A-4E3CE6CBDFBF}|Extrato.Domain\\Extrato.Domain.csproj|solutionrelative:extrato.domain\\interface\\repositories\\itransacaorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEBCC745-1EDB-4478-A02A-4E3CE6CBDFBF}|Extrato.Domain\\Extrato.Domain.csproj|c:\\extrato-simples-conferencia\\extrato\\extrato.domain\\interface\\commons\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEBCC745-1EDB-4478-A02A-4E3CE6CBDFBF}|Extrato.Domain\\Extrato.Domain.csproj|solutionrelative:extrato.domain\\interface\\commons\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF62D88F-B82E-45DD-9BFB-9076CCFE917C}|Extrato.Services\\Extrato.Services.csproj|c:\\extrato-simples-conferencia\\extrato\\extrato.services\\appservices\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF62D88F-B82E-45DD-9BFB-9076CCFE917C}|Extrato.Services\\Extrato.Services.csproj|solutionrelative:extrato.services\\appservices\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306A8DF-1838-4E34-BAE5-20A099A6897D}|Extrato.Api\\Extrato.Api.csproj|c:\\extrato-simples-conferencia\\extrato\\extrato.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306A8DF-1838-4E34-BAE5-20A099A6897D}|Extrato.Api\\Extrato.Api.csproj|solutionrelative:extrato.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306A8DF-1838-4E34-BAE5-20A099A6897D}|Extrato.Api\\Extrato.Api.csproj|c:\\extrato-simples-conferencia\\extrato\\extrato.api\\models\\transacaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306A8DF-1838-4E34-BAE5-20A099A6897D}|Extrato.Api\\Extrato.Api.csproj|solutionrelative:extrato.api\\models\\transacaoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306A8DF-1838-4E34-BAE5-20A099A6897D}|Extrato.Api\\Extrato.Api.csproj|c:\\extrato-simples-conferencia\\extrato\\extrato.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306A8DF-1838-4E34-BAE5-20A099A6897D}|Extrato.Api\\Extrato.Api.csproj|solutionrelative:extrato.api\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1306A8DF-1838-4E34-BAE5-20A099A6897D}|Extrato.Api\\Extrato.Api.csproj|c:\\extrato-simples-conferencia\\extrato\\extrato.api\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1306A8DF-1838-4E34-BAE5-20A099A6897D}|Extrato.Api\\Extrato.Api.csproj|solutionrelative:extrato.api\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CC47DE-133C-4AAE-927C-E9A0046CD723}|Extrato\\Extrato.csproj|c:\\extrato-simples-conferencia\\extrato\\extrato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CC47DE-133C-4AAE-927C-E9A0046CD723}|Extrato\\Extrato.csproj|solutionrelative:extrato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF62D88F-B82E-45DD-9BFB-9076CCFE917C}|Extrato.Services\\Extrato.Services.csproj|c:\\extrato-simples-conferencia\\extrato\\extrato.services\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF62D88F-B82E-45DD-9BFB-9076CCFE917C}|Extrato.Services\\Extrato.Services.csproj|solutionrelative:extrato.services\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController .cs",
+              "DocumentMoniker": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Api\\Controllers\\AuthController .cs",
+              "RelativeDocumentMoniker": "Extrato.Api\\Controllers\\AuthController .cs",
+              "ToolTip": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Api\\Controllers\\AuthController .cs",
+              "RelativeToolTip": "Extrato.Api\\Controllers\\AuthController .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:56:00.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Extrato.Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Extrato.Data\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:55:38.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TransacaoContextFactory.cs",
+              "DocumentMoniker": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Data\\Context\\TransacaoContextFactory.cs",
+              "RelativeDocumentMoniker": "Extrato.Data\\Context\\TransacaoContextFactory.cs",
+              "ToolTip": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Data\\Context\\TransacaoContextFactory.cs",
+              "RelativeToolTip": "Extrato.Data\\Context\\TransacaoContextFactory.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:55:10.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransacaoContext.cs",
+              "DocumentMoniker": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Data\\Context\\TransacaoContext.cs",
+              "RelativeDocumentMoniker": "Extrato.Data\\Context\\TransacaoContext.cs",
+              "ToolTip": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Data\\Context\\TransacaoContext.cs",
+              "RelativeToolTip": "Extrato.Data\\Context\\TransacaoContext.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:54:55.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transacao.cs",
+              "DocumentMoniker": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Domain\\Models\\Transacao.cs",
+              "RelativeDocumentMoniker": "Extrato.Domain\\Models\\Transacao.cs",
+              "ToolTip": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Domain\\Models\\Transacao.cs",
+              "RelativeToolTip": "Extrato.Domain\\Models\\Transacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:54:51.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITransacaoRepository.cs",
+              "DocumentMoniker": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Domain\\Interface\\Repositories\\ITransacaoRepository.cs",
+              "RelativeDocumentMoniker": "Extrato.Domain\\Interface\\Repositories\\ITransacaoRepository.cs",
+              "ToolTip": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Domain\\Interface\\Repositories\\ITransacaoRepository.cs",
+              "RelativeToolTip": "Extrato.Domain\\Interface\\Repositories\\ITransacaoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:54:46.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Domain\\Interface\\Commons\\IRepository.cs",
+              "RelativeDocumentMoniker": "Extrato.Domain\\Interface\\Commons\\IRepository.cs",
+              "ToolTip": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Domain\\Interface\\Commons\\IRepository.cs",
+              "RelativeToolTip": "Extrato.Domain\\Interface\\Commons\\IRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:54:39.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Extrato.Api\\Program.cs",
+              "ToolTip": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Api\\Program.cs",
+              "RelativeToolTip": "Extrato.Api\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:54:04.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TransacaoViewModel.cs",
+              "DocumentMoniker": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Api\\Models\\TransacaoViewModel.cs",
+              "RelativeDocumentMoniker": "Extrato.Api\\Models\\TransacaoViewModel.cs",
+              "ToolTip": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Api\\Models\\TransacaoViewModel.cs",
+              "RelativeToolTip": "Extrato.Api\\Models\\TransacaoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:53:53.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Api\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Extrato.Api\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Api\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Extrato.Api\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:53:51.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Api\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Extrato.Api\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Api\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "Extrato.Api\\Models\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:53:49.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\extrato-simples-conferencia\\Extrato\\Extrato\\Program.cs",
+              "RelativeDocumentMoniker": "Extrato\\Program.cs",
+              "ToolTip": "C:\\extrato-simples-conferencia\\Extrato\\Extrato\\Program.cs",
+              "RelativeToolTip": "Extrato\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:53:21.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Services\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "Extrato.Services\\Interfaces\\ITransactionService.cs",
+              "ToolTip": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Services\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "Extrato.Services\\Interfaces\\ITransactionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:52:53.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Services\\AppServices\\TransactionService.cs",
+              "RelativeDocumentMoniker": "Extrato.Services\\AppServices\\TransactionService.cs",
+              "ToolTip": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Services\\AppServices\\TransactionService.cs",
+              "RelativeToolTip": "Extrato.Services\\AppServices\\TransactionService.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAYwF4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:51:56.213Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

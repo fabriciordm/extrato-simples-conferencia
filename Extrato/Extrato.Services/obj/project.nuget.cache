@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "e2ZZKlmPHAw=",
+  "success": true,
+  "projectFilePath": "C:\\extrato-simples-conferencia\\Extrato\\Extrato.Services\\Extrato.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FABRICIO\\.nuget\\packages\\pdfsharpcore\\1.1.21\\pdfsharpcore.1.1.21.nupkg.sha512",
+    "C:\\Users\\FABRICIO\\.nuget\\packages\\polybioz.htmlrenderer.pdfsharp.core\\1.0.0\\polybioz.htmlrenderer.pdfsharp.core.1.0.0.nupkg.sha512",
+    "C:\\Users\\FABRICIO\\.nuget\\packages\\sixlabors.core\\1.0.0-beta0008\\sixlabors.core.1.0.0-beta0008.nupkg.sha512",
+    "C:\\Users\\FABRICIO\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta0009\\sixlabors.fonts.1.0.0-beta0009.nupkg.sha512",
+    "C:\\Users\\FABRICIO\\.nuget\\packages\\sixlabors.imagesharp\\1.0.0-beta0006\\sixlabors.imagesharp.1.0.0-beta0006.nupkg.sha512",
+    "C:\\Users\\FABRICIO\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
